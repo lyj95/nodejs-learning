@@ -20,6 +20,9 @@
 
    - C:\ELK\elasticsearch-oss-7.2.0-windows-x86_64\elasticsearch-7.2.0\bin 에서 elasticsearch.bat 파일 실행 후 http://localhost:9200/ 접속
 
+   - 백그라운드 실행 > ./bin/elasticsearch-d -p .pid
+   - 종료 > kill ....
+
 
 
 **로그스테시**
