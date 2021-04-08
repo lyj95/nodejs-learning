@@ -66,6 +66,7 @@ logstash -f C:\ELK\logstash-oss-7.2.0\logstash-7.2.0\config\sample.conf
 **자동완성**
 
 **형태소분석기(KoBrick)** -> 라이센스 적용해야함
+- 라이센스 다운 후 라이센스 옮기기 > $ES_HOME/config/kobrick/
 
 **Management Console**
 
